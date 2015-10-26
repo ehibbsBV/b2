@@ -1,0 +1,16 @@
+[
+  {
+    "name": "item",
+    "manufacturingId": "665-foo-1",
+    "quantity": 100,
+    "description": "this is a thing that I would like to purchase. Woot.",
+    "deadline": "10/25/15"
+  },
+  {
+    "name": "item",
+    "manufacturingId": "665-foo-1",
+    "quantity": 100,
+    "description": "this is a thing that I would like to purchase. Woot.",
+    "deadline": "10/25/15"
+  }
+]
